@@ -23,5 +23,7 @@ The graph above shows the total fares by city type per week. From January 2019 u
 ## Summary
 
 -From the results we can recommend to control the number of riders in urban cities. They have the higher fares, but there is the double number of drivers than riders.
+
 -Promote the app in rural cities to increase the number of rides.
+
 -The fares in suburban cities seems to increase, so probably they need more drivers to cover the demand.
