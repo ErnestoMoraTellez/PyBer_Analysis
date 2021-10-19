@@ -10,11 +10,11 @@ We need to create a summary of the ride-sharing data by city type, and show a mu
 
 ## Pyber analysis results
 
-For Pyber analysis, we have several data from diferent cities, drivers, rides, and fares. The next graph shows a summary about the information. We can see that is group by the tipe of cities [Rural,Suburban,Urban]. Aslo we can see the total number ob riders, drivers and fares with the average fare per ride and driver.
+For Pyber analysis, we have several data from diferent cities, drivers, rides, and fares. The next graph shows a summary about the information. We can see that is group by the tipe of cities [Rural,Suburban,Urban]. Also we can see the total number of riders, drivers and fares with the average fare per ride and driver.
 
 ![image](https://user-images.githubusercontent.com/88845919/137825972-f703d481-8d7d-4832-bd6a-14fa7939b54d.png)
 
-We can notice that the urban cities has the bigger number of riders and drivers. That's why there is also the higher amount of fares. But this also made the average fare per ride and  driver the cheaper.
+We can notice that the urban cities has the bigger number of riders and drivers. That's why there is also the higher amount of fares. But this also made the average fare per ride and  driver the cheaper. The suburban cities seems to be a good oportunity to invest. There is a good number of riders and probably they can increase to get more fares.
 
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/88845919/137827242-2567bb9c-f14d-439e-b992-4765bb0d2b18.png)
 
